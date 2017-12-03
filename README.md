@@ -3,7 +3,7 @@
 
 
 
-安装，需运行
+要安装，需运行
 
 ```
 git clone https://github.com/patrickroberts/music-js.git
@@ -22,7 +22,4 @@ node app.js
 
 
 然后打开 <http://localhost:8080>
-# -app
-# -app
-# -app
-# -app
+
